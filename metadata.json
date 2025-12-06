@@ -1,0 +1,7 @@
+{
+  "name": "La IA en la Logística",
+  "description": "Plataforma informativa y asistente inteligente para la optimización logística.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
